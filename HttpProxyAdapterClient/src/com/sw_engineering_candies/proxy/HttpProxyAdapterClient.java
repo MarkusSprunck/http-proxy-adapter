@@ -99,7 +99,7 @@ public class HttpProxyAdapterClient {
 		}
 	}
 
-	public static void main(final String[] args) throws UnrecoverableKeyException {
+	public static void main(final String[] args) {
 
 		readPropertyFile();
 
